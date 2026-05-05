@@ -13,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/JuanTrujilloM/pokeneas/issues"
   },
   "homepage": "https://github.com/JuanTrujilloM/pokeneas#readme",
   "dependencies": {
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
   }
 }
