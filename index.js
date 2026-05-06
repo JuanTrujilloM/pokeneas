@@ -1,2 +1,2 @@
-const app = require('./src/app');
-app.listen(3000, () => console.log('Servidor corriendo'));
+import app from './src/app.js';
+app.listen(80, () => console.log('Servidor corriendo en el puerto 80'));
